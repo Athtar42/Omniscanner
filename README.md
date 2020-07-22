@@ -12,6 +12,6 @@ For windows please install Tshark(Wireshark) using choco
 GeoIP2 pyshark scapy 
 
 ## Install
-`$ pip install geoip2  `
-`$ pip install scapy  `
-`$ pip install pyshark  `
+`$ pip install geoip2  `   
+`$ pip install scapy  `   
+`$ pip install pyshark  `   
