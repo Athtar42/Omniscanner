@@ -5,7 +5,6 @@
 # choco install wireshark
 # ==================================================
 # Packages needed: GeoIP2 pyshark scapy
-#
 # Install:
 # $ pip install geoip2
 # $ pip install scapy
